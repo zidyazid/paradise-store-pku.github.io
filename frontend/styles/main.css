@@ -1,0 +1,32 @@
+.navbar-brand {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.nav-item {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+}
+.nav-item .nav-link.active{
+    font-weight: 600;
+    color: blueviolet !important;
+}
+.nav-item {
+    color: brown !important;
+}
+
+.nav-item:hover {
+    color: blueviolet !important;
+}
+.form-orderan{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
